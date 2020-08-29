@@ -1,5 +1,5 @@
 {
-  "name": "nature adventurer",
+  "name": "nature_adventurer",
   "version": "1.0.0",
   "description": "exploring node, express and mongoDB",
   "main": "app.js",
